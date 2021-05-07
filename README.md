@@ -2,7 +2,7 @@ Hello, I'm Blake Rude and I am a recent Computer Science graduate from the Unive
 
 Currently I am job hunting to get a full-time or internship position as a Software Engineer.
 
-If you are interested in a collaborative project message me.
+If you are interested in a collaborative project email me blakesoftwareengineering@gmail.com
 
 <!---
 BlakeRude/BlakeRude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
