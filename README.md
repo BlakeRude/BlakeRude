@@ -3,7 +3,7 @@ Hello, I'm Blake Rude and I am a recent Computer Science graduate from the Unive
 Currently I am job hunting to get a full-time or internship position as a Software Engineer.
 
 
-Current Personal Learning: Xamarin Cross-Platform Mobile Development.
+Current Personal Learning: Xamarin Cross-Platform Mobile Development + MERN Stack Web Applications.
 
 If you are interested in a collaborative project email me blakesoftwareengineering@gmail.com
 
