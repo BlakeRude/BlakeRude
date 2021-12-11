@@ -7,7 +7,7 @@ Current Personal Learning: Discord Bots + Android Mobile Applications.
 
 Curent Projects: Music Recomendation Discord bot, "League of Legends" game mode helper.
 
-If you are interested in a collaborative project email me blakesoftwareengineering@gmail.com
+Looking for work. Hire me! blakesoftwareengineering@gmail.com
 
 <!---
 BlakeRude/BlakeRude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
