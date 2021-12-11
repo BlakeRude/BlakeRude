@@ -3,7 +3,9 @@ Hello, I'm Blake Rude and I am a recent Computer Science graduate from the Unive
 Currently I am job hunting to get a full-time or internship position as a Software Engineer.
 
 
-Current Personal Learning: Discord Bots + Productivity Mobile Apps.
+Current Personal Learning: Discord Bots + Android Mobile Applications.
+
+Curent Projects: Music Recomendation Discord bot, "League of Legends" game mode helper.
 
 If you are interested in a collaborative project email me blakesoftwareengineering@gmail.com
 
