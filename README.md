@@ -5,7 +5,7 @@ Currently I am job hunting to get a full-time or internship position as a Softwa
 
 Current Personal Learning: Discord Bots + Android Mobile Applications.
 
-Curent Projects: Music Recomendation Discord bot, "League of Legends" game mode helper.
+Curent Projects: Pomodoro Productivity Kotlin Android App, Python Music Recomendation Discord bot.
 
 Looking for work. Hire me! blakesoftwareengineering@gmail.com
 
