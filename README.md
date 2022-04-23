@@ -12,8 +12,8 @@ Looking for work. Hire me! blakesoftwareengineering@gmail.com
 Skills:
 <b>C</b> | <b>C++</b> | <b>Python</b> | JavaScript | C# | Kotlin | Unix | Git | GitHub | VSCode | RESTful APIs | JSON parsing | Object-Oriented Programming | Artificial Intelligence | Debugging | Compiler Construction | Code Generation | Android Studio | Firebase
 
-LinkedIn: https://www.linkedin.com/in/blake-rude/
-Twitter: https://twitter.com/Blake_SWE
+LinkedIn: https://www.linkedin.com/in/blake-rude/ <br>
+Twitter: https://twitter.com/Blake_SWE <br>
 Website: https://BlakeRude.us
 
 <!---
